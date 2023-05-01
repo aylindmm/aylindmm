@@ -8,7 +8,7 @@ When I'm not in the lab, I enjoy hiking, playing guitar, and watching movies. I'
 
 ## Current Projects
 
-- [Project 1](https://github.com/yourusername/project1](https://github.com/aylindmm/A.mexicanum.git): A study of axolotl´s rgeneration process.
+- [Project 1](https://github.com/aylindmm/A.mexicanum.git): A study of axolotl´s rgeneration process.
 
 ## Skills
 
